@@ -1,2 +1,2 @@
 # PullRequestTest.io
-Lecture #1. Homework. Issue #4
+Lecture #2. Homework. Issue #4
